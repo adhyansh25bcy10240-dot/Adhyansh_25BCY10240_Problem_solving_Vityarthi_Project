@@ -3,7 +3,9 @@ The goal of this project is to generate secure passwords
 for the user for multiple platforms. This password generator uses the
 random function to generate randomised passwords with compulsion
 of alphabets,numbers,first letter being capital and minimum number
-of 8 characters. 
+of 8 characters. This program has a lot of applications in the field of cybersecurity
+as with increase in computational power along with decrease in price of strong computers
+, the vulnerability of passwords being cracked has increased. 
 
 It uses the following python concepts:-
 1. String(str)
@@ -28,7 +30,7 @@ STEP 7: If the user chose "yes" for symbols, add special characters (!@#) to the
 
 STEP 8: Pick a random character from the pool and add it to the password
 
-STEP 9: Repeat step 10 until the password reaches the desired length
+STEP 9: Repeat step 8 until the password reaches the desired length
 
 STEP 10: Save the generated password in the dictionary using the platform name
 
@@ -44,4 +46,5 @@ Programming Language: Python was used.
 Version Control: Git and GitHub were utilized.
 Code Editor: VS Code (Visual Studio Code) was the code editor
 
-Made by- (Adhyansh Raina,25BCY10240)
+
+# Made by- (Adhyansh Raina,25BCY10240)
