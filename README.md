@@ -12,6 +12,8 @@ It uses the following python concepts:-
 2. Integer(int)
 3. Boolean(bool)
 4. Dictionary(dict)
+5. random.choice()
+6. while loop
 
 # ALGORITHM
 STEP 1: Start the program
