@@ -43,8 +43,11 @@ STEP 13: Ask the user if he/she wants to create password for another platform(ye
 # PROGRAM USED
 
 Programming Language: Python was used.
+
 Version Control: Git and GitHub were utilized.
+
 Code Editor: VS Code (Visual Studio Code) was the code editor
+
 
 
 # Made by- (Adhyansh Raina,25BCY10240)
