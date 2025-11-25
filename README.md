@@ -1,3 +1,8 @@
+# PROJECT NAME
+
+Random Password Generator for multiple 
+platforms in one run. 
+
 # PROJECT DESCRIPTION
 The goal of this project is to generate secure passwords
 for the user for multiple platforms. This password generator uses the
@@ -42,6 +47,13 @@ STEP 12: If the platform name is not a part of the dictionary, print "Not Found"
 
 STEP 13: Ask the user if he/she wants to create password for another platform(yes/no), if yes then repeat all steps above, otherwise end the program
 
+# FEATURES
+1. Customisable but still ensures a secure password of 8 characters.
+2. Uses a temporary storage(dictionary) so that passwords are not shown to any other user.
+3. interactive loop allows you to create multiple platform passwords using a while loop which terminates when user enter no.
+4. You can also rewatch your password if you enter correct platform key
+5. Choose random characters to generate random passwords for better security.
+   
 # PROGRAM USED
 
 Programming Language: Python was used.
@@ -49,7 +61,5 @@ Programming Language: Python was used.
 Version Control: Git and GitHub were utilized.
 
 Code Editor: VS Code (Visual Studio Code) was the code editor
-
-
 
 # Made by- (Adhyansh Raina,25BCY10240)
